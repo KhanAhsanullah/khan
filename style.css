@@ -1,0 +1,79 @@
+/* Home page */
+.navbar{
+    background-color: rgb(99, 74, 240) !important;
+    opacity: 1;
+    height: 100px;
+    
+    
+}
+
+
+
+#logo{
+    background-color: yellow;
+    color: red;
+    font-style: oblique;
+    font-size: 30px;
+  
+}
+
+.card-deck{
+    margin: 15px;
+    text-align: center;
+    
+    
+}
+.h2{
+    background-color: rgb(99, 74, 240)  ;
+    color: white;
+    text-align: center;
+    margin: 2px;
+    
+  
+}
+.b1{
+    background-color: rgb(99, 74, 240)  ;
+    color: white;
+    text-align: center;
+    margin: 2px;
+    font-weight: bold;
+    font-size: large;
+    height: 50px;
+    
+    
+}
+.row{
+    margin-top: 35px;
+    padding-left: 2px;
+}
+.card-body{
+    text-align: center;
+    align-content: center;
+}
+/* Course page */
+
+#sss3{
+    opacity: 0.9;
+}
+.c{
+    
+    background-color: rgb(99, 74, 240)   ;
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+    padding: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+/* bg */
+
+.fee{
+    margin: 80px;
+}
+.footer{
+    background-color:  rgb(99, 74, 240)  ;
+    color: white;
+    opacity: 0.8;
+    text-align: center;   
+
+}
